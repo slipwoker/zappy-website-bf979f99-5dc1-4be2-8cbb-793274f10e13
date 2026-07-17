@@ -1,0 +1,104 @@
+# בוטיק הודיה — Generative Engine Optimization Map
+
+> An online modest fashion store targeting women who value modesty in clothing. The store focuses on selling modest apparel online, catering to an audience that seeks stylish yet modest clothing options, potentially serving religious or culturally conservative communities.
+
+---
+
+## Pages
+
+### בית
+https://-bf979f99.zappy5.app
+ברוכה הבאה לבוטיק הודיה, חנות בגדים צנועים אונליין לאישה הדתית והאופנתית. קולקציית אופנה צנועה המשלבת סטייל, איכות ונוחות. היכנסי עכשיו לגלות את הלוק המושלם עבורך!
+
+### אודות
+https://-bf979f99.zappy5.app/about
+הכירי את החזון של בוטיק הודיה – חנות בגדים צנועים אונליין שנולדה מאהבה לאופנה צנועה ולערכים שלך. קראי על המסע שלנו ליצור בגדים צנועים לנשים דתיות שמרגישים טוב מבפנים ומבחוץ.
+
+### גלריה
+https://-bf979f99.zappy5.app/gallery
+דפדפי בגלריה של בוטיק הודיה ומצאי השראה לאינספור שילובים של בגדים צנועים לנשים דתיות. גלי פריטי אופנה צנועה שיהפכו כל יום לחגיגה של סטייל. בואי להתאהב מחדש במלתחה שלך!
+
+### צור קשר
+https://-bf979f99.zappy5.app/contact
+יש לך שאלה על מידה, התאמה או סטיילינג? צרי קשר עם בוטיק הודיה, חנות הבגדים הצנועים אונליין שלך. אנחנו כאן כדי לעזור לך למצוא את האופנה הצנועה שהכי מתאימה לך. מחכות לשמוע ממך!
+
+### Products
+https://-bf979f99.zappy5.app/products
+המוצרים שלנו - בוטיק הודיה
+
+### Cart
+https://-bf979f99.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-bf979f99.zappy5.app/checkout
+תשלום
+
+### Login
+https://-bf979f99.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-bf979f99.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-bf979f99.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-bf979f99.zappy5.app/product/:slug
+פרטי המוצר - בוטיק הודיה
+
+### Category
+https://-bf979f99.zappy5.app/category/:slug
+מוצרים - בוטיק הודיה
+
+### תודה רבה - פנייתך התקבלה | בוטיק הודיה
+https://-bf979f99.zappy5.app/thank-you
+תודה שפנית אלינו. פנייתך התקבלה בהצלחה בבוטיק הודיה - חנות בגדים צנועים אונליין. נחזור אלייך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-bf979f99.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-bf979f99.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-bf979f99.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בוטיק הודיה
+An online modest fashion store targeting women who value modesty in clothing. The store focuses on selling modest apparel online, catering to an audience that seeks stylish yet modest clothing options, potentially serving religious or culturally conservative communities.
+
+## Target Audience
+- נשים המחפשות בגדים צנועים
+- נשים יהודיות דתיות
+- נשים מוסלמיות מחפשות צניעות
+
+## Industry
+Modest Fashion E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-bf979f99.zappy5.app/sitemap.xml
+- Robots: https://-bf979f99.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-bf979f99.zappy5.app/llms-full.txt
+- Products (JSON): https://-bf979f99.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-bf979f99.zappy5.app/product-feed.xml
