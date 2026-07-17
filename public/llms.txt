@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-bf979f99.zappy5.app
+https://example.com
 ברוכה הבאה לבוטיק הודיה, חנות בגדים צנועים אונליין לאישה הדתית והאופנתית. קולקציית אופנה צנועה המשלבת סטייל, איכות ונוחות. היכנסי עכשיו לגלות את הלוק המושלם עבורך!
 
 ### אודות
-https://-bf979f99.zappy5.app/about
+https://example.com/about
 הכירי את החזון של בוטיק הודיה – חנות בגדים צנועים אונליין שנולדה מאהבה לאופנה צנועה ולערכים שלך. קראי על המסע שלנו ליצור בגדים צנועים לנשים דתיות שמרגישים טוב מבפנים ומבחוץ.
 
 ### גלריה
-https://-bf979f99.zappy5.app/gallery
+https://example.com/gallery
 דפדפי בגלריה של בוטיק הודיה ומצאי השראה לאינספור שילובים של בגדים צנועים לנשים דתיות. גלי פריטי אופנה צנועה שיהפכו כל יום לחגיגה של סטייל. בואי להתאהב מחדש במלתחה שלך!
 
 ### צור קשר
-https://-bf979f99.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על מידה, התאמה או סטיילינג? צרי קשר עם בוטיק הודיה, חנות הבגדים הצנועים אונליין שלך. אנחנו כאן כדי לעזור לך למצוא את האופנה הצנועה שהכי מתאימה לך. מחכות לשמוע ממך!
 
 ### Products
-https://-bf979f99.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - בוטיק הודיה
 
 ### Cart
-https://-bf979f99.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-bf979f99.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-bf979f99.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-bf979f99.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-bf979f99.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-bf979f99.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - בוטיק הודיה
 
 ### Category
-https://-bf979f99.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - בוטיק הודיה
 
 ### תודה רבה - פנייתך התקבלה | בוטיק הודיה
-https://-bf979f99.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. פנייתך התקבלה בהצלחה בבוטיק הודיה - חנות בגדים צנועים אונליין. נחזור אלייך בהקדם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-bf979f99.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-bf979f99.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-bf979f99.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Modest Fashion E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-bf979f99.zappy5.app/sitemap.xml
-- Robots: https://-bf979f99.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-bf979f99.zappy5.app/llms-full.txt
-- Products (JSON): https://-bf979f99.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-bf979f99.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
